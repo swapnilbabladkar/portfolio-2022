@@ -126,7 +126,16 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Kubernetes', 'Docker', 'Ansible', 'Jenkins', 'AWS', 'GoLang', 'JavaScript (ES6+)', 'React',];
+  const skills = [
+    'GoLang',
+    'Kubernetes',
+    'Docker',
+    'Terrafrom',
+    'AWS',
+    'Azure',
+    'JavaScript (ES6+)',
+    'React',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -137,18 +146,19 @@ const About = () => {
           <div>
             <p>
               Hello! My name is Swapnil and I enjoy creating things that live on the internet. My
-              interest in buidling cloud infrastructre started in 2017 when I decided to try building custom 
-              kubernetes clusters for telecom cloud - turns out hacking together a custom resource definination taught
-              me a lot about {' '}
+              interest in buidling cloud infrastructre started in 2017 when I decided to try
+              building custom kubernetes clusters for telecom cloud - turns out hacking together a
+              custom resource definination taught me a lot about{' '}
               <a href="https://kubernetes.io/">K8s</a> &amp; Cloud infrastructre.
             </p>
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://www.ericsson.com/en">a leading IT service provider</a> in telecom software. My
-              main focus these days is building roboust, accessible, inclusive products and digital
-              infrastructure at <a href="https://www.ericsson.com/en">Ericsson Inc.</a> for a variety of
-              clients.
+              <a href="https://www.ericsson.com/en">a leading IT service provider</a> in telecom
+              software and fast paced product based startup{' '}
+              <a href="https://www.nirmata.com/">Nirmata Inc.</a> My main focus these days is
+              building roboust, accessible, inclusive products and digital infrastructure at{' '}
+              <a href="https://www.nirmata.com/en">Nirmata Inc.</a> for a variety of clients.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

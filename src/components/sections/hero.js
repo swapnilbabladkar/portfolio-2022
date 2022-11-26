@@ -64,11 +64,11 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building exceptional 
-        cloud platforms and enabling cloud native product deployments. Currently, I’m focused on building accessible, product center infrastructure
-        at{' '}
-        <a href="https://www.ericsson.com/en" target="_blank" rel="noreferrer">
-          Ericsson
+        I’m a software engineer specializing in building exceptional cloud platforms and enabling
+        cloud native product deployments. Currently, I’m focused on building accessible, product
+        center infrastructure at{' '}
+        <a href="https://www.nirmata.com/" target="_blank" rel="noreferrer">
+          Nirmata Inc
         </a>
         .
       </p>
@@ -77,7 +77,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://drive.google.com/file/d/1PcZOqvCNX56GYH-Stf61IVwee6iW0_qL/view?usp=sharing"
+      href="https://drive.google.com/file/d/1zxezOZ-cTgNxC-Qkcf19hDTcWQxa_CVZ/view?usp=sharing"
       target="_blank"
       rel="noreferrer">
       View my resume!

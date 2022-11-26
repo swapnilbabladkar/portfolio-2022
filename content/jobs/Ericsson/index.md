@@ -3,7 +3,7 @@ date: '2018-05-14'
 title: 'Senior Solution Integrator'
 company: 'Ericsson'
 location: 'Pune, MH, INDIA'
-range: 'Se[tember] 2017 - Present'
+range: 'Se[tember 2017 - May 2022'
 url: 'https://www.ericsson.com/en'
 ---
 
