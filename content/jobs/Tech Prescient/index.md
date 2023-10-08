@@ -1,5 +1,5 @@
 ---
-date: '2018-05-18'
+date: '2023-01-12'
 title: 'Senior DevOps Engineer'
 company: 'Tech Prescient'
 location: 'Remote'

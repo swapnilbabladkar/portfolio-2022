@@ -1,5 +1,5 @@
 ---
-date: '2018-05-14'
+date: '2017-09-06'
 title: 'Senior Solution Integrator'
 company: 'Ericsson'
 location: 'Pune, MH, INDIA'

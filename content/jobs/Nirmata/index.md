@@ -1,5 +1,5 @@
 ---
-date: '2018-05-18'
+date: '2022-05-18'
 title: 'DevOps Engineer'
 company: 'Nirmata'
 location: 'Bengaluru, KA, INDIA'
