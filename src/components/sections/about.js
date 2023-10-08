@@ -127,14 +127,20 @@ const About = () => {
   }, []);
 
   const skills = [
-    'GoLang',
-    'Kubernetes',
-    'Docker',
-    'Terrafrom',
-    'AWS',
-    'Azure',
-    'JavaScript (ES6+)',
-    'React',
+    'CI/CD: Jenkins, Argo, Gitlab, CircleCI',
+    'Infrastructure as Code (IaC): Terraform, Ansible',
+    'Containerization and Orchestration: Kubernetes, Docker<',
+    'Cloud Platforms: AWS, Azure',
+    'Linux/Unix Systems Administration',
+    'Scripting and Automation: Python, Bash, Go',
+    'Monitoring and Logging: EKL stack, Datadog, OpenSearch',
+    'Version Control: Git',
+    'Incident Management: Squadcast',
+    'Database Management: Postgres, Redis',
+    'Configuration Management: Puppet, Chef',
+    'Troubleshooting and Debugging',
+    'Other: GitOps, Load Balancing and Scaling, Infrastructure Cost Optimization',
+    'Security Practices',
   ];
 
   return (
@@ -156,9 +162,14 @@ const About = () => {
               Fast-forward to today, and I’ve had the privilege of working at{' '}
               <a href="https://www.ericsson.com/en">a leading IT service provider</a> in telecom
               software and fast paced product based startup{' '}
-              <a href="https://www.nirmata.com/">Nirmata Inc.</a> My main focus these days is
-              building roboust, accessible, inclusive products and digital infrastructure at{' '}
-              <a href="https://www.nirmata.com/en">Nirmata Inc.</a> for a variety of clients.
+              <a href="https://www.nirmata.com/">Nirmata Inc</a> and a one of a kind Product
+              Developeent Team at <a href="https://www.techprescient.com/"> Tech Prescient</a>
+            </p>
+
+            <p>
+              My main focus these days is building roboust, accessible, inclusive products and
+              digital infrastructure at <a href="https://www.techprescient.com/">Tech Prescient</a>{' '}
+              for a variety of clients.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

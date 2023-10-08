@@ -1,15 +1,14 @@
 ---
 date: '2018-05-18'
-title: 'Customer Success Engineer'
+title: 'DevOps Engineer'
 company: 'Nirmata'
-location: 'Pune, MH, INDIA'
-range: 'May 2022 - Present'
+location: 'Bengaluru, KA, INDIA'
+range: 'May 2022 - January 2023'
 url: 'https://nirmata.com/'
 ---
 
-- Enabling enterprises adopt cloud native best practices for product development across domains
-- Deploy and managing cloud infrastructure across AWS, GKE, Azure, Vmware Tanzu, Private Cloud
-- Enable cloud native application deployment on Kubernetes Clusters across cloud platforms
-- DevOps best practices for SLA, SLO, SLI
-- Enabling and integrating policy as a code across Kubernetes clusters using Kyverno
-- Pre-sales activity for Customer Success and Customer Enablement
+- Spearheaded enterprise-level Kyverno policies for multiple clients, significantly boosting Kubernetes security and ensuring industry compliance, resulting in a 30% reduction in security incidents and a 15% improvement in compliance audit scores.
+- Contributed actively to open-source Kyverno in Golang, engaging in code reviews, bug fixes, and feature development, benefiting the Kubernetes security community.
+- Led pivotal customer POCs, resulting in trust-building security assessments, Kubernetes supply chain enhancements, and a 20% increase in client confidence.
+- Mentored a dynamic team of four, fostering continuous learning and elevating team productivity and skillsets.
+- Clients - Vovartis, Shell, Schneider Electric
