@@ -64,9 +64,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a Lead Infrastructure / DevOps Consultant with 9+ years running mission-critical
-        AWS/Kubernetes platforms, and 2+ years building production AI/LLM infrastructure — MCP
-        servers, RAG pipelines, and vector stores. Currently, I’m leading platform engineering for
+        I’m an AI Platform Engineer with 9+ years running mission-critical AWS/Kubernetes
+        platforms, and 2+ years building production AI/LLM infrastructure — MCP servers, RAG
+        pipelines, and vector stores. Currently, I’m leading platform engineering for
         GenAI applications at{' '}
         <a href="https://www.equalexperts.com/" target="_blank" rel="noreferrer">
           Equal Experts

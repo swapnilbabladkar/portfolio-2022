@@ -5,7 +5,7 @@
   Swapnil Babladkar — Portfolio
 </h1>
 <p align="center">
-  Personal portfolio site for <a href="https://www.linkedin.com/in/swapnilbabladkar/" target="_blank">Swapnil Babladkar</a>, Lead Infrastructure / DevOps Consultant, built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted on <a href="https://www.netlify.com/" target="_blank">Netlify</a> (and GitHub Pages).
+  Personal portfolio site for <a href="https://www.linkedin.com/in/swapnilbabladkar/" target="_blank">Swapnil Babladkar</a>, AI Platform Engineer, built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted on <a href="https://www.netlify.com/" target="_blank">Netlify</a> (and GitHub Pages).
 </p>
 
 <p align="center">

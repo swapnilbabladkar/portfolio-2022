@@ -5,7 +5,7 @@ module.exports = {
   siteMetadata: {
     title: 'Swapnil Babladkar',
     description:
-      'Swapnil Babladkar is a Lead Infrastructure / DevOps Consultant with 9+ years running mission-critical AWS/Kubernetes platforms and 2+ years building production AI/LLM infrastructure — MCP servers, RAG pipelines, and GenAI platform engineering.',
+      'Swapnil Babladkar is an AI Platform Engineer with 9+ years running mission-critical AWS/Kubernetes platforms and 2+ years building production AI/LLM infrastructure — MCP servers, RAG pipelines, and GenAI platform engineering.',
     siteUrl: 'https://swapnilbabladkar.netlify.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@SBabladkar',

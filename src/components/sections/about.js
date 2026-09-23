@@ -151,8 +151,8 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Swapnil and I’m a Lead Infrastructure / DevOps Consultant with 9+
-              years running mission-critical cloud platforms. My interest in building cloud
+              Hello! My name is Swapnil and I’m an AI Platform Engineer with 9+ years running
+              mission-critical cloud platforms. My interest in building cloud
               infrastructure started in 2017 at{' '}
               <a href="https://www.ericsson.com/en">Ericsson</a>, deploying their Cloud Native
               Solution on bare-metal <a href="https://kubernetes.io/">Kubernetes</a> — hacking

@@ -1,6 +1,6 @@
 ---
 date: '2026-03-01'
-title: 'Lead DevOps Consultant'
+title: 'AI Platform Engineer'
 company: 'Equal Experts'
 location: 'Remote'
 range: 'March 2026 - Present'
