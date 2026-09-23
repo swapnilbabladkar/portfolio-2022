@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://swapnilbabladkar.netlify.app/sitemap.xml
+Host: https://swapnilbabladkar.netlify.app
