@@ -127,20 +127,20 @@ const About = () => {
   }, []);
 
   const skills = [
-    'AI/LLM Infra: MCP servers, RAG pipelines',
-    'Vector Stores & Embedding Pipelines',
-    'Cloud Platforms: AWS, Azure',
+    'MCP Server Design & Deployment',
+    'RAG Pipelines & Vector Stores',
+    'AI-ready Platform Provisioning',
+    'LLM-driven Observability & RCA',
+    'Cloud: AWS, Azure, EKS',
     'IaC: Terraform, Ansible, Puppet, Chef',
-    'Containerization: Kubernetes, Docker, EKS',
+    'Containers: Kubernetes, Docker',
     'CI/CD: GitHub Actions, ArgoCD, Jenkins',
     'CI/CD: GitLab CI, CircleCI, Octopus Deploy',
-    'Scripting and Automation: Python, Bash',
-    'Monitoring: Prometheus, Grafana, Datadog',
-    'Logging: ELK Stack, OpenSearch',
-    'Incident Management: PagerDuty, Squadcast',
-    'Database Management: PostgreSQL, Redis',
     'GitOps & Release Automation',
-    'Infra Cost Optimisation & Security',
+    'Monitoring: Prometheus, Grafana, Datadog',
+    'Logging: ELK Stack, OpenSearch, PagerDuty',
+    'Data: PostgreSQL, Redis, Vector Databases',
+    'Platform Strategy & SRE Leadership',
   ];
 
   return (
@@ -162,18 +162,21 @@ const About = () => {
 
             <p>
               Since then I’ve worked across{' '}
-              <a href="https://www.nirmata.com/">Nirmata</a> (contributing to open-source Kyverno),{' '}
-              <a href="https://www.techprescient.com/">Tech Prescient</a>, and{' '}
-              <a href="https://www.thoughtworks.com/">Thoughtworks</a>, where I led DevOps/SRE for
-              a major European airline and pioneered AI-first tooling for automated RCA and
-              anomaly detection.
+              <a href="https://www.nirmata.com/">Nirmata</a> (contributing to open-source Kyverno)
+              and <a href="https://www.techprescient.com/">Tech Prescient</a>, before joining{' '}
+              <a href="https://www.thoughtworks.com/">Thoughtworks</a> as Tech Lead for a major
+              European airline — leading DevOps/SRE teams to 99.99% SLA compliance and a 35%
+              MTTR reduction, and pioneering AI-first tooling (LLMs + vector databases +
+              observability data) for automated RCA and anomaly detection across 10+ client
+              engagements.
             </p>
 
             <p>
-              These days, at <a href="https://www.equalexperts.com/">Equal Experts</a>, my focus
-              has shifted to the AI/LLM infrastructure layer — building MCP (Model Context
-              Protocol) servers, RAG pipelines, vector stores, and self-service platforms that
-              power production GenAI applications for engineering teams.
+              Today, at <a href="https://www.equalexperts.com/">Equal Experts</a>, I work as an AI
+              Platform Engineer — designing and deploying MCP (Model Context Protocol) servers,
+              RAG pipelines, vector stores, and embedding pipelines, and building the AI-ready,
+              self-service infrastructure that lets engineering teams ship production GenAI
+              applications faster.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
