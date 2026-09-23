@@ -60,26 +60,23 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Swapnil Babladkar.</h2>;
-  const three = <h3 className="big-heading">I build cloud infra.</h3>;
+  const three = <h3 className="big-heading">I build cloud &amp; AI infrastructure.</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building exceptional cloud platforms and enabling
-        cloud native product deployments. Currently, I’m focused on building accessible, product
-        center infrastructure at{' '}
-        <a href="https://www.techprescient.com/" target="_blank" rel="noreferrer">
-          Tech Prescient
+        I’m a Lead Infrastructure / DevOps Consultant with 9+ years running mission-critical
+        AWS/Kubernetes platforms, and 2+ years building production AI/LLM infrastructure — MCP
+        servers, RAG pipelines, and vector stores. Currently, I’m leading platform engineering for
+        GenAI applications at{' '}
+        <a href="https://www.equalexperts.com/" target="_blank" rel="noreferrer">
+          Equal Experts
         </a>
         .
       </p>
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="https://drive.google.com/file/d/1AAOpTPznvJ7kbWODex4FzvGE3aa-oWU9/view?usp=sharing"
-      target="_blank"
-      rel="noreferrer">
+    <a className="email-link" href="/resume.pdf" target="_blank" rel="noreferrer">
       View my resume!
     </a>
   );

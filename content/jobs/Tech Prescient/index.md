@@ -1,9 +1,9 @@
 ---
-date: '2023-01-12'
+date: '2023-12-31'
 title: 'Senior DevOps Engineer'
 company: 'Tech Prescient'
 location: 'Remote'
-range: 'January 2023 - Present'
+range: 'January 2023 - December 2023'
 url: 'https://www.techprescient.com/'
 ---
 

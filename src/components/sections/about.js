@@ -127,20 +127,20 @@ const About = () => {
   }, []);
 
   const skills = [
-    'CI/CD: Jenkins, Argo, Gitlab, CircleCI',
-    'Infrastructure as Code (IaC): Terraform, Ansible',
-    'Containerization and Orchestration: Kubernetes, Docker<',
+    'AI/LLM Infra: MCP servers, RAG pipelines',
+    'Vector Stores & Embedding Pipelines',
     'Cloud Platforms: AWS, Azure',
-    'Linux/Unix Systems Administration',
-    'Scripting and Automation: Python, Bash, Go',
-    'Monitoring and Logging: EKL stack, Datadog, OpenSearch',
-    'Version Control: Git',
-    'Incident Management: Squadcast',
-    'Database Management: Postgres, Redis',
-    'Configuration Management: Puppet, Chef',
-    'Troubleshooting and Debugging',
-    'Other: GitOps, Load Balancing and Scaling, Infrastructure Cost Optimization',
-    'Security Practices',
+    'IaC: Terraform, Ansible, Puppet, Chef',
+    'Containerization: Kubernetes, Docker, EKS',
+    'CI/CD: GitHub Actions, ArgoCD, Jenkins',
+    'CI/CD: GitLab CI, CircleCI, Octopus Deploy',
+    'Scripting and Automation: Python, Bash',
+    'Monitoring: Prometheus, Grafana, Datadog',
+    'Logging: ELK Stack, OpenSearch',
+    'Incident Management: PagerDuty, Squadcast',
+    'Database Management: PostgreSQL, Redis',
+    'GitOps & Release Automation',
+    'Infra Cost Optimisation & Security',
   ];
 
   return (
@@ -151,25 +151,29 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Swapnil and I enjoy creating things that live on the internet. My
-              interest in buidling cloud infrastructre started in 2017 when I decided to try
-              building custom kubernetes clusters for telecom cloud - turns out hacking together a
-              custom resource definination taught me a lot about{' '}
-              <a href="https://kubernetes.io/">K8s</a> &amp; Cloud infrastructre.
+              Hello! My name is Swapnil and I’m a Lead Infrastructure / DevOps Consultant with 9+
+              years running mission-critical cloud platforms. My interest in building cloud
+              infrastructure started in 2017 at{' '}
+              <a href="https://www.ericsson.com/en">Ericsson</a>, deploying their Cloud Native
+              Solution on bare-metal <a href="https://kubernetes.io/">Kubernetes</a> — hacking
+              together custom resource definitions and Ansible-automated provisioning taught me a
+              lot about K8s and telecom-scale infrastructure.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://www.ericsson.com/en">a leading IT service provider</a> in telecom
-              software and fast paced product based startup{' '}
-              <a href="https://www.nirmata.com/">Nirmata Inc</a> and a one of a kind Product
-              Developeent Team at <a href="https://www.techprescient.com/"> Tech Prescient</a>
+              Since then I’ve worked across{' '}
+              <a href="https://www.nirmata.com/">Nirmata</a> (contributing to open-source Kyverno),{' '}
+              <a href="https://www.techprescient.com/">Tech Prescient</a>, and{' '}
+              <a href="https://www.thoughtworks.com/">Thoughtworks</a>, where I led DevOps/SRE for
+              a major European airline and pioneered AI-first tooling for automated RCA and
+              anomaly detection.
             </p>
 
             <p>
-              My main focus these days is building roboust, accessible, inclusive products and
-              digital infrastructure at <a href="https://www.techprescient.com/">Tech Prescient</a>{' '}
-              for a variety of clients.
+              These days, at <a href="https://www.equalexperts.com/">Equal Experts</a>, my focus
+              has shifted to the AI/LLM infrastructure layer — building MCP (Model Context
+              Protocol) servers, RAG pipelines, vector stores, and self-service platforms that
+              power production GenAI applications for engineering teams.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

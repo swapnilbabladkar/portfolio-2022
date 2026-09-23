@@ -1,37 +1,18 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  brittanychiang.com - v4
+  Swapnil Babladkar — Portfolio
 </h1>
 <p align="center">
-  The fourth iteration of <a href="https://brittanychiang.com" target="_blank">brittanychiang.com</a> built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
+  Personal portfolio site for <a href="https://www.linkedin.com/in/swapnilbabladkar/" target="_blank">Swapnil Babladkar</a>, Lead Infrastructure / DevOps Consultant, built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted on <a href="https://www.netlify.com/" target="_blank">Netlify</a> (and GitHub Pages).
 </p>
+
 <p align="center">
-  Previous iterations:
-  <a href="https://github.com/bchiang7/v1" target="_blank">v1</a>,
-  <a href="https://github.com/bchiang7/v2" target="_blank">v2</a>,
-  <a href="https://github.com/bchiang7/bchiang7.github.io" target="_blank">v3</a>
-</p>
-<p align="center">
-  <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
-    <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
-  </a>
+  <a href="https://swapnilbabladkar.netlify.app/" target="_blank"><strong>swapnilbabladkar.netlify.app</strong></a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
-
-## 🚨 Forking this repo (please read!)
-
-Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
-
-I value keeping my site open source, but as you all know, _**plagiarism is bad**_. It's always disheartening whenever I find that someone has copied my site without giving me credit. I spent a non-trivial amount of effort building and designing this iteration of my website, and I am proud of it! All I ask of you all is to not claim this effort as your own.
-
-Please also note that I did not build this site with the intention of it being a starter theme, so if you have questions about implementation, please refer to the [Gatsby docs](https://www.gatsbyjs.org/docs/).
-
-### TL;DR
-
-Yes, you can fork this repo. Please give me proper credit by linking back to [brittanychiang.com](https://brittanychiang.com). Thanks!
+Design based on [Brittany Chiang](https://brittanychiang.com)'s [v4](https://github.com/bchiang7/v4) template — used with attribution per its license.
 
 ## 🛠 Installation & Set Up
 
@@ -72,6 +53,17 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [br
    ```sh
    npm run serve
    ```
+
+## 🌐 Hosting
+
+This site deploys to two places:
+
+- **Netlify** — [swapnilbabladkar.netlify.app](https://swapnilbabladkar.netlify.app/). Already connected to this repo; every push to `main` triggers a build automatically via the Netlify dashboard/CLI. No extra setup needed.
+- **GitHub Pages** — `.github/workflows/gh-pages.yml` builds the site with `gatsby build --prefix-paths` (using the `pathPrefix: '/portfolio-2022'` in `gatsby-config.js`) and publishes `public/` to the `gh-pages` branch on every push to `main`/`master`. To turn it on:
+  1. Push this repo to GitHub (the workflow runs automatically).
+  2. In the repo, go to **Settings → Pages**, set **Source** to the `gh-pages` branch (created by the workflow's first run), folder `/ (root)`.
+  3. The site will be live at `https://swapnilbabladkar.github.io/portfolio-2022/`.
+  4. If you ever rename the repo, update `pathPrefix` in `gatsby-config.js` to match.
 
 ## 🎨 Color Reference
 

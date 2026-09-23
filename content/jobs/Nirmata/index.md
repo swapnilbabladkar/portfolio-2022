@@ -1,9 +1,9 @@
 ---
-date: '2022-05-18'
-title: 'DevOps Engineer'
+date: '2023-12-01'
+title: 'Senior DevOps Engineer'
 company: 'Nirmata'
 location: 'Bengaluru, KA, INDIA'
-range: 'May 2022 - January 2023'
+range: 'May 2022 - December 2023'
 url: 'https://nirmata.com/'
 ---
 
@@ -11,4 +11,4 @@ url: 'https://nirmata.com/'
 - Contributed actively to open-source Kyverno in Golang, engaging in code reviews, bug fixes, and feature development, benefiting the Kubernetes security community.
 - Led pivotal customer POCs, resulting in trust-building security assessments, Kubernetes supply chain enhancements, and a 20% increase in client confidence.
 - Mentored a dynamic team of four, fostering continuous learning and elevating team productivity and skillsets.
-- Clients - Vovartis, Shell, Schneider Electric
+- Clients - Novartis, Shell, Schneider Electric
